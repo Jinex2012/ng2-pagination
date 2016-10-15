@@ -5,7 +5,7 @@ import {DEFAULT_TEMPLATE, DEFAULT_STYLES} from './template';
 
 export interface IPage {
     label: string;
-    value: any;
+    value: number;
 }
 
 @Component({
